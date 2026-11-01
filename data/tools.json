@@ -256,6 +256,18 @@
       "featuredType": null,
       "isNew": true,
       "releasedAt": "2024-11-01"
+    },
+    {
+      "id": "agent-qa",
+      "name": "agent-qa",
+      "description": "vostride's natural-language QA agent for web, Android and iOS, with memidex persistent memory and validated self-improvement. Free CLI; model and infrastructure costs are separate.",
+      "url": "https://vostride.com",
+      "categories": ["automation"],
+      "tags": ["QA testing", "CLI / MCP"],
+      "featured": false,
+      "featuredType": null,
+      "isNew": false,
+      "releasedAt": ""
     }
   ]
 }
